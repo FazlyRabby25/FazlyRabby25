@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @FazlyRabby25
 
-- 👀 I’m interested in learning about computer, programming language,apple and pc games , ps4 games. 
-
+- 👀 I’m interested in learning about computer, programming language,apple and pc games , ps4 games.very professional about valorant.
 - 🌱 I’m currently learning Computer Science (programming language and mechine level language/MIPS code)
-
-- 💞️ I’m looking to collaborate on any python or java projects, i am very knowlageable about computer architecture for now and learning and researching things about it.
+- 💞️ I’m looking to collaborate on any python or java projects, i am very knowlageable about computer architecture.
 
 6
 ​
